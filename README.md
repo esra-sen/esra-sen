@@ -1,8 +1,8 @@
 <div align="center">
   <br/><br/>
   
-  # 👾 Esra Nur Şen
-  ### Software Engineering Student & Backend Developer
+  # Esra Nur Şen
+  ### Software Engineering Student
   
   <br/>
 
