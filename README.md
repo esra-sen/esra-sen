@@ -22,6 +22,12 @@
 
 <br/><br/>
 
+<a href="https://esranursen.gt.tc/">
+  <img src="https://img.shields.io/badge/_%20%20%20%20%20view%20resume%20%20%20%20%20_-100000?style=flat-square&logoColor=white&labelColor=1a1a2e&color=1a1a2e" height="32"/>
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/esra-sen">
   <img src="https://img.shields.io/badge/  GitHub  -161b22?style=for-the-badge&logo=github&logoColor=white" height="42"/>
 </a>
