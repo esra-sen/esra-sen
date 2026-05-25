@@ -1,7 +1,7 @@
 <div align="center">
   <br/><br/>
   
-  # 👾 Esra Nur Şen
+  # Esra Nur Şen
   ### Software Engineering Student
   
   <br/>
