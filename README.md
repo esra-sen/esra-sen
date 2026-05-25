@@ -12,7 +12,7 @@
 
 ---
 
-### ✦ &nbsp; curious? you should be. &nbsp; ✦
+### ✦ &nbsp; curious? &nbsp; ✦
 
 <br/>
 
