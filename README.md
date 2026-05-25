@@ -1,25 +1,35 @@
-<div align="center">
-  <br/><br/>
-  
-  # Esra Nur Sen
-  ### Software Engineering Student
-  
-  <br/>
-<meta http-equiv="refresh" content="0; url=https://esra-sen.github.io/esra-sen/" />
-  <a href="https://esra-sen.github.io/esra-sen/" target="_blank">
-    <img src="https://img.shields.io/badge/ENTER%20INTERACTIVE%20PORTFOLIO-c084fc?style=for-the-badge&logo=visualstudiocode&logoColor=0A0A0F" alt="Portfolio" height="45" />
-  </a>
+# Hi, I'm Esra Nur Şen 👋
 
-  <br/><br/>
-  <p align="center" style="color: #8b8ab0;">
-    <i>Exploring backend systems, API integrations, and scalable architectures. <br/>
-    Currently pursuing a degree in Software Engineering (Class of 2027). <br/>
-    Completed an internship at Allianz Partners (2025) focusing on enterprise data workflows.</i>
-  </p>
-  
-  <br/>
-  
-  <p align="center" style="font-size: 11px; color: #555;">
-    <i>Built with curiosity and coffee.</i> ☕
-  </p>
+I am a **Software Engineering student** currently focusing on building robust backend systems and exploring the world of data-driven integrations. I enjoy turning complex challenges into clean, efficient, and scalable code.
+
+---
+
+### 🛠 Tech Stack
+* **Languages:** C#, C++, Java, Python, JavaScript, SQL
+* **Backend & APIs:** .NET 8.0, ASP.NET Core, RESTful API, JWT Authentication
+* **Data & Tools:** Pandas, NumPy, MS SQL Server, MySQL, Git, Postman
+
+---
+
+### 🚀 About Me
+* **Education:** 3rd Year Software Engineering Student at Haliç University.
+* **Experience:** Previously interned at **Allianz Partners**, focusing on enterprise data workflows and API pipeline development.
+* **Current Focus:** Deepening my knowledge in system design, API architecture, and scalable software solutions.
+* **Goal:** To grow as a backend developer who builds secure and high-performing systems.
+
+---
+
+### 🌐 My Portfolio
+I've built an interactive portfolio to showcase my journey and projects. You can explore more about my work, skills, and technical background here:
+
+<div align="center">
+  <a href="https://esra-sen.github.io/esra-sen/">
+    <img src="https://img.shields.io/badge/ENTER_INTERACTIVE_PORTFOLIO-7e22ce?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio">
+  </a>
 </div>
+
+---
+
+<p align="center">
+  <i>Built with 💜 by Esra Nur Şen</i>
+</p>
