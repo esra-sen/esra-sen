@@ -1,100 +1,131 @@
 <div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td bgcolor="#0f2042" align="center" style="padding: 40px; border-radius: 20px; border: 2px dashed #f39c12;">
-        <h1 style="color: #fff; font-family: 'Courier New', monospace; letter-spacing: 3px; margin: 0;">⚡ ESRA NUR ŞEN ⚡</h1>
-        <p style="color: #f39c12; font-family: 'Courier New', monospace; font-size: 1.2em; margin-top: 10px;">[ Software Engineering Student // Backend Developer Candidate ]</p>
-      </td>
-    </tr>
-  </table>
+
+```
+███████╗███████╗██████╗  █████╗     ███╗   ██╗██╗   ██╗██████╗ 
+██╔════╝██╔════╝██╔══██╗██╔══██╗    ████╗  ██║██║   ██║██╔══██╗
+█████╗  ███████╗██████╔╝███████║    ██╔██╗ ██║██║   ██║██████╔╝
+██╔══╝  ╚════██║██╔══██╗██╔══██║    ██║╚██╗██║██║   ██║██╔══██╗
+███████╗███████║██║  ██║██║  ██║    ██║ ╚████║╚██████╔╝██║  ██║
+╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+```
+
+### `< Software Engineering Student />`
+
+*3rd Grade · Haliç University · Intern @ Allianz Partners*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub followers](https://img.shields.io/github/followers/esranursen?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com)
+
 </div>
 
-<br />
+---
 
-<table>
-  <tr>
-    <td width="60%" valign="top" style="border: none; padding-right: 20px;">
-      <h3 style="color: #f39c12; font-family: 'Courier New', monospace;">&gt;_ ABOUT_ME</h3>
-      <p style="line-height: 1.6;">
-        I am a 3rd-year Software Engineering student at <b>Haliç University</b>. I specialize in building secure, structured, and efficient backend architectures. I love turning complex data logic into clean code.
-      </p>
-      <br />
-      <h3 style="color: #f39c12; font-family: 'Courier New', monospace;">&gt;_ CURRENT_FOCUS</h3>
-      <p style="line-height: 1.6;">
-        Currently expanding my technical horizons by deep-diving into advanced backend systems, scalable system design patterns, and cross-platform full-stack integrations.
-      </p>
-    </td>
-    
-    <td width="40%" valign="top" style="border-left: 2px solid #f39c12; padding-left: 20px;">
-      <h3 style="color: #fff; font-family: 'Courier New', monospace;">// STATUS_BOARD</h3>
-      <p>🎓 <b>Degree:</b> B.Sc. Software Eng.</p>
-      <p>🚀 <b>Target:</b> Backend Ecosystems</p>
-      <p>🌍 <b>Lang:</b> English (100%)</p>
-      <p>⚡ <b>Mindset:</b> Continuous Growth</p>
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<br />
+## 🌑 About Me
+
+```python
+class EsraNurSen:
+    def __init__(self):
+        self.name        = "Esra Nur Şen"
+        self.role        = "Software Engineering Student"
+        self.university  = "Haliç University"
+        self.grade       = "3rd Year"
+        self.internship  = "Allianz Partners"
+        self.interests   = ["Backend Dev", "Data Science", "API Design"]
+        self.currently   = "Learning & Building 🚀"
+
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something cool.")
+
+me = EsraNurSen()
+me.say_hi()
+```
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ Technical Arsenal & Languages
-
-<table width="100%">
-  <tr>
-    <td bgcolor="#0d1117" style="padding: 15px; border-radius: 10px;">
-      <b>⚡ Core Languages:</b> 
-      <code>C#</code> <code>C</code> <code>C++</code> <code>Python</code> <code>Java</code> <code>JavaScript</code> <code>PHP</code>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#0d1117" style="padding: 15px; border-radius: 10px;">
-      <b>🎨 Web UI Foundations:</b> 
-      <code>HTML5</code> <code>CSS3</code>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#0d1117" style="padding: 15px; border-radius: 10px;">
-      <b>⚙️ Ecosystems & Tools:</b> 
-      <code>.NET</code> <code>ASP.NET Core</code> <code>Microsoft SQL Server</code> <code>Git</code> <code>GitHub</code> <code>Postman</code> <code>Swagger</code>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#0d1117" style="padding: 15px; border-radius: 10px;">
-      <b>📚 Advanced Data & Engineering:</b> 
-      <code>NumPy</code> <code>Pandas</code> <code>Matplotlib</code> <b style="color: #f39c12;"><code>LaTeX (Technical Documentation & Reports)</code></b>
-    </td>
-  </tr>
-</table>
-
-<br />
-
----
-
-### 💼 Professional Milestone
-
-<div style="padding: 20px; background-color: #0d1117; border-radius: 12px; border-left: 6px solid #f39c12;">
-  <h4 style="margin: 0; color: #fff; font-size: 1.2em;">🏢 Allianz Partners — Software Engineering Internship</h4>
-  <p style="margin-top: 10px; line-height: 1.6; color: #c9d1d9;">
-    <b>Policy Data Transfer Project:</b> Engineered a robust, secure two-tier backend architecture utilizing <b>.NET 8.0</b> and <b>MS SQL Server</b>. Transformed legacy manual processing loops into high-speed, automated API data structures secured fully via <b>JWT (JSON Web Tokens)</b>.
-  </p>
-</div>
-
-<br />
-
----
-
-### 📬 Terminal Connectivity
+## 🛠️ Tech Stack
 
 <div align="center">
-  <code style="font-size: 1.1em;">
-    [< a href="https://www.linkedin.com/in/esra-nur-sen" target="_blank" style="color: #f39c12; text-decoration: none;">LINKEDIN</a>] 
-    &nbsp;&bull;&nbsp; 
-    [< a href="mailto:esranurssen@gmail.com" style="color: #f39c12; text-decoration: none;">GMAIL</a>] 
-    &nbsp;&bull;&nbsp; 
-    [< a href="https://github.com/esra-sen" style="color: #f39c12; text-decoration: none;">PORTFOLIO</a>]
-  </code>
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### Web & Markup
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### Data Science & Tools
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
-<br />
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esranursen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esranursen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esranursen&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=esranursen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=esranursen&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=esranursen&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+</div>
