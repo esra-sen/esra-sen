@@ -1,64 +1,77 @@
-# 👋 Hi, I'm Esra Nur Şen!
-### 💻 Software Engineering Student
+<div align="center">
+  <img src="https://erwinlaiho.fi/artwork/hello-world-042kb" alt="Hello World by Erwin Laiho" width="100%" style="border-radius: 15px; border: 3px solid #0f2042; box-shadow: 0px 10px 30px rgba(0,0,0,0.5);" />
+  <br />
+  <sub style="color: #7f8c8d; font-family: 'Courier New', Courier, monospace;"><i>"Hello World" — Visualizing the Abstract Structure of Code by Erwin Laiho</i></sub>
+  <br /><br />
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Education-Hali%C3%A7%20University-blue?style=for-the-badge&labelColor=0f2042&color=f39c12" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-blue?style=for-the-badge&labelColor=0f2042&color=f39c12" />
-</p>
-
----
-
-### 🌟 About Me
-
-- 🎓 **Software Engineering** (English) student at Haliç University.
-- 🚀 Passionate about **Backend Development**, specializing in **.NET, C#, and relational database** architectures.
-- 💼 During my internship at **Allianz Partners**, I designed and developed an end-to-end two-tier infrastructure prototype (**Policy Data Transfer Project**) to secure corporate data transfer processes.
-- 🛠️ Dedicated to writing clean code, exploring modern software architectures, and implementing secure API authentication mechanisms like **JWT**.
-
----
-
-### 🛠️ Technologies & Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET%208.0-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <br>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=esra-sen&show_icons=true&theme=tokyonight&count_private=true" alt="Esra's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esra-sen&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
-
----
-
-### 📬 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/esra-nur-sen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:esranurssen@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<div align="center">
+  <h1>👋 Hi, I'm Esra Nur Şen!</h1>
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=f39c12&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Developer+Candidate;.NET+%26+C%23+Enthusiast;JWT+%26+RESTful+API+Specialist" alt="Typing Effect" />
+  </h3>
+</div>
 
 <br />
 
----
-
-### 🎨 Digital Vision & Inspiration
-
-<p align="center">
-  <img src="https://erwinlaiho.fi/artwork/hello-world-042kb" alt="Hello World by Erwin Laiho" width="350px" style="border-radius: 8px;" />
+<div align="center" style="font-family: 'Courier New', Courier, monospace; line-height: 1.6; color: #e0e6ed;">
+  🎓 <b>3rd Year Software Engineering</b> student at Haliç University.
   <br />
-  <sub style="color: #7f8c8d;"><i>Artwork: "Hello World" by Erwin Laiho — A digital representation of code, data, and structure.</i></sub>
-</p>
+  🚀 Passionate about <b>Backend Development</b>, specializing in <b>.NET</b> and relational databases.
+  <br />
+  💼 Experienced corporate workflow at <b>Allianz Partners</b> with Policy Data Transfer automation.
+</div>
+
+<br />
+
+<div align="center">
+  <h2>🛠️ Core Backend Technologies</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,python,git,github,visualstudio,postman" alt="My Skills" />
+  </a>
+</div>
+
+<br />
+
+<div align="left" style="margin-left: 10%; margin-right: 10%; border-left: 4px solid #f39c12; padding-left: 20px; background-color: #0d1117; padding-top: 15px; padding-bottom: 15px; border-radius: 8px;">
+  <h3>🌟 Featured Project</h3>
+  <ul>
+    <li>
+      <b>Allianz Partners Transfer Prototpye</b> — 
+      A secure two-tier backend architecture built with ASP.NET Core Web API and C# Console Application.
+      <br />
+      Validates Excel data with ExcelDataReader and secures endpoints via JWT authentication.
+    </li>
+  </ul>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <h2>📊 Coding Activity</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=esra-sen&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esra-sen&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <h2>📬 Let's Collaborate</h2>
+  <a href="https://www.linkedin.com/in/esra-nur-sen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.5" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:esranurssen@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.5" alt="Gmail" />
+  </a>
+</div>
+
+<br />
+<br />
+<br />
+
+<div align="center" style="opacity: 0.5;">
+  <sub><i>This profile is designed as a conceptual artwork of digital engineering.</i></sub>
+</div>
