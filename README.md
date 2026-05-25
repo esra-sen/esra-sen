@@ -6,7 +6,7 @@
   
   <br/>
 
-  <a href="https://esra-sen.github.io/" target="_blank">
+  <a href="https://esra-sen.github.io/esra-sen/" target="_blank">
     <img src="https://img.shields.io/badge/ENTER%20DYNAMIC%20PORTFOLIO-c084fc?style=for-the-badge&logo=visualstudiocode&logoColor=0A0A0F" alt="Portfolio" height="45" />
   </a>
 
